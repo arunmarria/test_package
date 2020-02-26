@@ -6,7 +6,8 @@ authors = ["Arun Marria <arun.marria@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "no"
+python = "^3.7"
+pandas = "^1.0.1"
 
 [tool.poetry.dev-dependencies]
 
